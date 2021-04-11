@@ -7,4 +7,4 @@ The proposed system is a web-based application. It stores the entire information
 database. This makes it possible to manage the data efficiently and effectively. The system
 allows users to interact with the application and execute various operations, by providing welldefined interfaces. The system also allows generation of reports.
 
-P.S: This was my first web dev project. This project is not very advanced or beautiful. But it helped me learn a lot more than any other project has ever helped me. 
+ 
